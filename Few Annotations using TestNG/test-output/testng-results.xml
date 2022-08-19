@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-19T15:53:17 AST" name="Default suite" finished-at="2022-08-19T15:53:43 AST" duration-ms="25404">
+    <groups>
+    </groups>
+    <test started-at="2022-08-19T15:53:17 AST" name="Default test" finished-at="2022-08-19T15:53:43 AST" duration-ms="25404">
+      <class name="ass3W10D1.ChromWebDriverAss2W10D1">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:ass3W10D1.ChromWebDriverAss2W10D1@2928854b]" started-at="2022-08-19T15:53:14 AST" name="setUp" finished-at="2022-08-19T15:53:17 AST" duration-ms="3045" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="openWebsite()[pri:0, instance:ass3W10D1.ChromWebDriverAss2W10D1@2928854b]" started-at="2022-08-19T15:53:17 AST" name="openWebsite" finished-at="2022-08-19T15:53:22 AST" duration-ms="4939" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openWebsite -->
+        <test-method signature="login()[pri:0, instance:ass3W10D1.ChromWebDriverAss2W10D1@2928854b]" started-at="2022-08-19T15:53:23 AST" name="login" finished-at="2022-08-19T15:53:37 AST" duration-ms="14092" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="nevigate()[pri:0, instance:ass3W10D1.ChromWebDriverAss2W10D1@2928854b]" started-at="2022-08-19T15:53:37 AST" name="nevigate" finished-at="2022-08-19T15:53:43 AST" duration-ms="6254" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nevigate -->
+        <test-method is-config="true" signature="terminateBrowser()[pri:0, instance:ass3W10D1.ChromWebDriverAss2W10D1@2928854b]" started-at="2022-08-19T15:53:43 AST" name="terminateBrowser" finished-at="2022-08-19T15:53:44 AST" duration-ms="889" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminateBrowser -->
+      </class> <!-- ass3W10D1.ChromWebDriverAss2W10D1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
